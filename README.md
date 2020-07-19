@@ -19,7 +19,7 @@ Based on a sample YELP dataset with columns of userID, businessID and user ratin
 (Source: Google Image Search (https://cdn1.byjus.com/wp-content/uploads/2019/02/Correlation-Coefficient-Formula.png))
 
 ### Matrix Representing User/Item Rating
-![alt text](https://github.com/frozendrpepper/Spark-Frequent-Itemset-Analysis/blob/master/user_item_matrix.png?raw=true)
+![alt text](https://github.com/frozendrpepper/Spark-Recommender-System/blob/master/user_item_matrix.png?raw=true)
 (Source: UCI Math77b Lecture 12 slide 7 (https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2002%20-%20Collaborative%20recommendation.pdf))
 
 The basic idea
