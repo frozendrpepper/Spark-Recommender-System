@@ -37,7 +37,7 @@ to compute the rating or find other items (columns) that have high positive Pear
 ## Result
 Each model's performance is measured by the RMSE (root mean squared error). Lower RMSE implies more accurate result. A separate validation dataset, not shown in the current repository, is used to analyze the performance of each model
 
-1) ALS - 1.31
+1) ALS - 1.61
 2) User - 1.044
 3) Item - 1.047
 4) Hybrid - 1.019
