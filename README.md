@@ -45,6 +45,6 @@ Each model's performance is measured by the RMSE (root mean squared error). Lowe
 
 ## Useful References
 
-Resources for Face Recognition Deep Neural Network
+Resources for Theoretical Background on Collaborative Filtering
 * [UT Dallas CS6375 Lecture of Collaborative Filtering](https://personal.utdallas.edu/~nrr150130/cs6375/2015fa/lects/Lecture_23_CF.pdf)
 * [UCI Math77b Lecture on Collaborative Filtering](https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2002%20-%20Collaborative%20recommendation.pdf)
